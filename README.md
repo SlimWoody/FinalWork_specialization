@@ -2,7 +2,7 @@
 _________________________________________________________________________________
 Выполнил Лузин Павел Геннадьевич, дата выполнения задач 23.04.2024 г. 
 
-[Ссылка на FinalWork.txt](https://github.com/SlimWoody/FinalWork_specialization/blob/main/Final%20Work.txt)
+# [Ссылка на FinalWork.txt](https://github.com/SlimWoody/FinalWork_specialization/blob/main/Final%20Work.txt)
 
 ## 6. Диаграмма классов
    - Создать диаграмму классов с родительским классом "Животные", и двумя подклассами: "Pets" и "Pack animals".
@@ -47,7 +47,7 @@ ID	Name	Type	BirthDate	Commands
 8	Sahara	Camel	2015-08-14	Walk, Run
 
 ## Вывод результат, делал в MySQL Workbench: 
-[Ссылка на FinalWork.txt](https://github.com/SlimWoody/FinalWork_specialization/blob/main/DB_allanimals.csv)
+# [Ссылка на FinalWork.txt](https://github.com/SlimWoody/FinalWork_specialization/blob/main/DB_allanimals.csv)
 
 ##  8. ООП и Java
    - Создать иерархию классов в Java, который будет повторять диаграмму классов созданную в задаче 6(Диаграмма классов) .
@@ -75,7 +75,7 @@ ID	Name	Type	BirthDate	Commands
 Создать механизм, который позволяет вывести на экран общее количество созданных животных любого типа (Как домашних, так и вьючных), то есть при создании каждого нового животного счетчик увеличивается на “1”. 
 
 
-[Ссылка на главный класс программы ](https://github.com/SlimWoody/FinalWork_specialization/blob/main/DB_allanimals.csv)
+# [Ссылка на главный класс программы ](https://github.com/SlimWoody/FinalWork_specialization/blob/main/AnimalRegistry.java)
 
 ## Не получилось побороть кодировку отображения кириллицы в терминале. Если не сложно подскажите как ее реализовать! 
 
